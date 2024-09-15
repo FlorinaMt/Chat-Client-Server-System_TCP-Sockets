@@ -14,7 +14,7 @@ The application must:
 
 - use the Observer design pattern.
 
-- use either Singleton or Multiton as a log to the server console and to file(s). It should always be possible to find all the communication for an entire day –text, ip address, date and time.
+- use either Multiton as a log to the server console and to file(s). It should always be possible to find all the communication for an entire day –text, ip address, date and time.
 
 - use the Factory method, e.g. for different kinds of objects to send between server and client.
 
